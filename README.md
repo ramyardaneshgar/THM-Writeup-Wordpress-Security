@@ -3,8 +3,6 @@ Writeup for TryHackMe WordPress Pentest Lab - including security tools, commands
 
 https://tryhackme.com/r/room/blog
 
-# Steps to Complete the Blog Lab on TryHackMe
-
 ## Background
 
 The **Blog** lab on TryHackMe provides a vulnerable WordPress site set up by "Billy Joel" as the target. The primary objective of the lab was to uncover two flags: `user.txt` and `root.txt`. This exercise required leveraging reconnaissance, enumeration, exploitation, and privilege escalation techniques. The lab also focused on identifying misconfigurations in WordPress and exploiting these weaknesses to gain administrative and root access.
