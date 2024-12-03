@@ -1,4 +1,4 @@
-# THM-Writeup-WordPress
+# THM-Writeup-WordPress-Security
 Writeup for TryHackMe WordPress Pentest Lab - including security tools, commands used, and key lessons learned.
 
 https://tryhackme.com/r/room/blog
