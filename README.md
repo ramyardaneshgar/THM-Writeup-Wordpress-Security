@@ -1,6 +1,8 @@
 
 ## Wordpress-Security
 
+Application Security using Nmap, Smbclient, Gobuster, and WPSCAN for enumeration, vulnerability analysis, and exploitation.
+
 ## Background
 
 The **Blog** lab on TryHackMe provides a vulnerable WordPress site set up by "Billy Joel" as the target. The primary objective of the lab was to uncover two flags: `user.txt` and `root.txt`. This exercise required leveraging reconnaissance, enumeration, exploitation, and privilege escalation techniques. The lab also focused on identifying misconfigurations in WordPress and exploiting these weaknesses to gain administrative and root access.
