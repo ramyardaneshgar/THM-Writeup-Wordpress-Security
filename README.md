@@ -1,13 +1,5 @@
 
-## THM-Writeup-Wordpress-Security
-
-Writeup for TryHackMe WordPress Pentest Lab - including security tools, commands used, and key lessons learned.
-
-Developed by Ramyar Daneshgar
-
-https://tryhackme.com/r/room/blog
-
- ⚠️ Disclaimer: All actions were performed in a controlled, authorized environment. Unauthorized use is strictly prohibited.
+## Wordpress-Security
 
 ## Background
 
